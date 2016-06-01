@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	메인 페이지 입니다.
+	메인 페이지 입니다.뭐지???
+	
+	이거 뭐여???
 </body>
 </html>
